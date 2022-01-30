@@ -69,12 +69,12 @@ function getProductInfo(partNumber) {
             updatePrice(colorName, price)            
             break;   
         case 'pn7':
-            price = '$8.99'
+            price = '$9.99'
             colorName = 'Medium Blue'       
             updatePrice(colorName, price)        
             break;   
         case 'pn8':
-            price = '$16.99'
+            price = '$17.99'
             colorName = 'Light Purple'      
             updatePrice(colorName, price)         
             break;   
